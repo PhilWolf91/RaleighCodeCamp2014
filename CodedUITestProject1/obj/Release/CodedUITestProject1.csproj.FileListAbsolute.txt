@@ -1,0 +1,5 @@
+F:\PhilWolf91ReTry\newProject\WpfApplication1\CodedUITestProject1\bin\Release\data.csv
+F:\PhilWolf91ReTry\newProject\WpfApplication1\CodedUITestProject1\bin\Release\CodedUITestProject1.dll
+F:\PhilWolf91ReTry\newProject\WpfApplication1\CodedUITestProject1\bin\Release\CodedUITestProject1.pdb
+F:\PhilWolf91ReTry\newProject\WpfApplication1\CodedUITestProject1\obj\Release\CodedUITestProject1.dll
+F:\PhilWolf91ReTry\newProject\WpfApplication1\CodedUITestProject1\obj\Release\CodedUITestProject1.pdb
